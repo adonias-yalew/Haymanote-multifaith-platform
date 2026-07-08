@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "about": "ስለ እኛ",
+    "community": "ማህበረሰብ",
+    "resources": "መረጃዎች",
+    "testimonials": "መስክሮች",
+    "contactUs": "አግኙን",
+    "signIn": "ግባ",
+    "getStarted": "ይጀምሩ",
+    "dashboard": "ዳሽቦርድ"
+  },
+  "hero": {
+    "tagline": "የአእምሮ ጤና ጠባቂ ቦታ",
+    "title": "ብቻ አይደለህም",
+    "titleHighlight": "ብቻ አይደለህም",
+    "subtitle": "በስውር ሁኔታ你的故事 ያካፍሉ። የሚረዱ አሉ። መከላከያ ያግኙ።",
+    "joinCommunity": "ከማህበረሰቡ ጋር ይቀላቀሉ",
+    "exploreStories": "አጫጭር ታሪኮችን ይመልከቱ"
+  },
+  "features": {
+    "title": "አዲስ ተስፋን ለምን ይመርጣሉ?",
+    "safeAnonymous": {
+      "title": "ደህና እና ስውር",
+      "description": "በስውር ሁኔታ你的故事 ያካፍሉ። የእርስዎ ግላዊነት የእኛ ቅድሚያ ነው።"
+    },
+    "professionalSupport": {
+      "title": "ሙያዊ ድጋፍ",
+      "description": "የተረጋገጡ የአእምሮ ጤና ባለሙያዎች ምክር እና ድጋፍ ለመስጠት ዝግጁ ናቸው።"
+    },
+    "communityDriven": {
+      "title": "የማህበረሰብ የሚመራ",
+      "description": "እናንተን የሚረዱ ሰዎች ጋር ይገናኙ። እውነተኛ ሰዎች፣ እውነተኛ ታሪኮች።"
+    },
+    "freeForever": {
+      "title": "ለዘላለም ነፃ",
+      "description": "የአእምሮ ጤና ድጋፍ ለሁሉም ተደራሽ መሆን አለበት። ምንም የተደበቀ ዋጋ የለም።"
+    }
+  },
+  "about": {
+    "title": "በማህበረሰብ በኩል የአእምሮ ደህንነትን ማበረታታት",
+    "description": "አዲስ ተስፋ (በአማርኛ 'አዲስ ተስፋ' ትርጉም ያለው) በ2024 ተቋቋመ፣ ቀላል ተልእኖ ያለው፡ ያለ ፍርሃት የአእምሮ ጤና ጉዞን ለማካፈል ደህና እና ስውር ቦታ መፍጠር።",
+    "mission": "የአእምሮ ጤና ድጋፍ ለሁሉም ተደራሽ፣ ተመጣጣኝ፣ እና ያለ ስ stigma መሆኑን ማረጋገጥ።",
+    "vision": "አንድም ሰው የአእምሮ ጤና ችግሮችን ብቻውን እንዳይጋፈጥ፣ ድጋፍም ሁልጊዜ አንድ ጠቅታ ላይ እንዲሆን።",
+    "values": "ስሜት፣ ግላዊነት፣ መካከለኝነት፣ እና በማስረጃ የተደገፈ ድጋፍ ሁሉንም ነገር ይመራል።"
+  },
+  "community": {
+    "title": "የኛን ደግ ማህበረሰብ ይቀላቀሉ",
+    "members": "10,000+ አባላት",
+    "conversations": "ዕለታዊ ውይይቶች",
+    "safe": "ደህና እና የተቆጣጠረ",
+    "joinButton": "ከማህበረሰቡ ጋር ይቀላቀሉ",
+    "visitButton": "ማህበረሰቡን ይጎብኙ"
+  },
+  "blogs": {
+    "title": "የአእምሮ ጤና መረጃዎች",
+    "viewAll": "ሁሉንም መረጃዎች ይመልከቱ"
+  },
+  "contact": {
+    "title": "እናንተን ለመርዳት እዚህ ነን",
+    "subtitle": "ጥያቄዎች አሉዎት ወይም ድጋፍ ይፈልጋሉ? ከቡድናችን ጋር ይገናኙ። ልምድዎን ደህና እና ደጋፈራ ለማድረግ ቁርጠኞች ነን።",
+    "email": "ኢሜይል ይላኩልን",
+    "emailValue": "support@addistesfa.org",
+    "response": "በ24 ሰዓታት ውስጥ እንመልሳለን",
+    "crisis": "የአደጋ ድጋፍ",
+    "crisisValue": "24/7 የሚገኝ",
+    "professionals": "ሙያዊ አውታረመረብ",
+    "professionalsValue": "50+ የተረጋገጡ ባለሙያዎች",
+    "formTitle": "መልእክት ይላኩልን",
+    "name": "ስም",
+    "namePlaceholder": "የእርስዎ ስም",
+    "emailPlaceholder": "እርስዎ@ምሳሌ.com",
+    "message": "መልእክት",
+    "messagePlaceholder": "እናንተን እንዴት ልንረዳዎ እንደምንችል?",
+    "sendButton": "መልእክት ይላኩ"
+  },
+  "auth": {
+    "loginTitle": "እንኳን ወደ ቤት በሰላም መጡ",
+    "loginSubtitle": "ለመቀጠል ወደ አካውንትዎ ይግቡ",
+    "registerTitle": "አካውንት ይፍጠሩ",
+    "registerSubtitle": "ከማህበረሰባችን ጋር ይቀላቀሉ እና ጉዞዎን ይጀምሩ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+    "loginButton": "ግባ",
+    "registerButton": "አካውንት ፍጠር",
+    "noAccount": "አካውንት የለዎትም?",
+    "hasAccount": "አካውንት አለዎት?",
+    "registerLink": "ይጀምሩ",
+    "loginLink": "ግባ",
+    "forgotPassword": "የይለፍ ቃል ረሳሁ?",
+    "stayAnonymous": "ስውር ቆይ",
+    "anonymousDesc": "የእርስዎ መታወቂያ በነባሪነት ይጠበቃል",
+    "backToHome": "ወደ መነሻ ይመለሱ",
+    "passwordRequirements": {
+      "length": "ቢያንስ 8 ቁምፊዎች",
+      "special": "አንድ ልዩ ቁምፊ",
+      "number": "አንድ ቁጥር",
+      "uppercase": "አንድ ከፍተኛ ሆሄ"
+    }
+  },
+  "dashboard": {
+    "welcome": "እንኳን ደህና መጡ",
+    "subtitle": "ዛሬ በማህበረሰብዎ ውስጥ የሚከሰተው እዚህ ነው።",
+    "totalPosts": "ጠቅላላ ፓስቶች",
+    "totalLikes": "ጠቅላላ የወደዱ",
+    "comments": "አስተያየቶች",
+    "savedPosts": "የተቀመጡ ፓስቶች",
+    "quickActions": "ፈጣን እርምጃዎች",
+    "askQuestion": "ጥያቄ ይጠይቁ",
+    "askQuestionDesc": "የማህበረሰብ መሪዎች እንዲሉ የተወሰነ ጥያቄ ይጠይቁ",
+    "shareStory": "ጥያቄ ይጠይቁ",
+    "shareStoryDesc": "ጥያቄ ይጠይቁ ወይም ሃሳብ አካፍሉ",
+    "savedPostsDesc": "የእርስዎን ብክነቶች ይመልከቱ",
+    "communityDesc": "ታሪኮችን ያስሱ",
+    "resourcesDesc": "የአእምሮ ጤና መመሪያዎች",
+    "recentPosts": "የቅርብ ጊዜ የማህበረሰብ ፓስቶች",
+    "viewAll": "ሁሉንም ይመልከቱ",
+    "activity": "የእርስዎ እንቅስቃሴ",
+    "dailyTip": "የዕለት ምክር",
+    "tipContent": "ዕረፍት መውሰድ እና ራስን መንከባከብ ያስታውሱ። እንኳን 5 ደቂቃ ዘመናዊ እስትንፋስ ጭንቀትን መቀነስ ይችላል።",
+    "role": "ሚና",
+    "anonymousMode": "የስውር ሁኔታ",
+    "publicProfile": "የህዝብ ፕሮፋይል",
+    "storiesViewed": "የታዩ ታሪኮች",
+    "postsLiked": "የተወደዱ ፓስቶች",
+    "myPostsTitle": "ጥያቄዎች ይጠይቋል እና ረቂቅዎች",
+    "myPostsDesc": "ጥያቄዎችን እና ረቂቅ ምላሾችን ይመልከቱ"
+  },
+  "footer": {
+    "description": "ለአእምሮ ጤና ድጋፍ አዛዥ ማህበረሰብ። ደህና፣ ስውር፣ እና ሙያዊ።",
+    "platform": "መድረክ",
+    "account": "አካውንት",
+    "privacy": "ግላዊነት",
+    "terms": "ውሎች",
+    "copyright": "© 2024 አዲስ ተስፋ። ሁሉም መብቶች የተጠበቁ ናቸው።"
+  },
+  "language": {
+    "title": "ቋንቋ",
+    "english": "እንግሊዝኛ (English)",
+    "amharic": "አማርኛ (Amharic)",
+    "oromiffa": "ኦሮሚፍኛ (Oromiffa)"
+  },
+  "emailVerification": {
+    "title": "ኢሜይልዎን ያረጋግጡ",
+    "subtitle": "ወደ ኢሜይልዎ ትክክለኛ ሊንክ ልከን ነበር",
+    "checkInbox": "የሚጣበብዎን ሳጥን ይመልከቱ",
+    "resendEmail": "ኢሜይል እንደገና ይላኩ",
+    "verified": "ኢሜይል በተሳካ ሁኔታ ታረገጘ",
+    "verifyEmail": "ኢሜይል ያረጋግጡ",
+    "emailSent": "ትክክለኛ ኢሜይል ወደ {email} ተልኮአል"
+  },
+  "authExtended": {
+    "googleSignup": "Google ጋር ይመዝገቡ",
+    "phoneSignup": "ስልክ ቁጥር ጋር ይመዝገቡ",
+    "orContinueWith": "ወይም ከዚህ ጋር ይቀጥሉ"
+  },
+  "prayerTracker": {
+    "title": "የጸሎት ፈጠራ",
+    "addPrayer": "ጸሎት ያክሉ",
+    "currentStreak": "የአሁን ማራመድ",
+    "days": "ቀናት",
+    "markComplete": "ሙሉ ምልክት ያድርጉ",
+    "prayerName": "የጸሎት ስም",
+    "selectReligion": "ሃይማኖት ምረጡ"
+  },
+  "communityExtended": {
+    "askQuestion": "ጥያቄ ይጠይቁ",
+    "shareStory": "ታሪክ አካፍል",
+    "leaderResponse": "የመሪው ምላሽ",
+    "verifiedLeader": "ታረጋገጠ መሪ"
+  },
+  "donation": {
+    "title": "ለገበርካ",
+    "selectChurch": "ቤተክርስቲያን/መስጊድ ምረጡ",
+    "bankAccount": "የባንክ ሂሳብ",
+    "copyAccount": "የሂሳብ ቁጥር ይገለበጡ",
+    "accountCopied": "የሂሳብ ቁጥር ተገለበጠ!"
+  },
+  "dashboardNew": {
+    "religionContent": "ሃይማኖት-ላይ የተመሰረተ ይዘት",
+    "prayerWidget": "የጸሎት ፈጠራ",
+    "askQuestions": "የተጠየቁ ጥያቄዎች"
+  }
+}

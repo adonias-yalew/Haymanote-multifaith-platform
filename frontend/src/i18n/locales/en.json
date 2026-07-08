@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "about": "About",
+    "community": "Community",
+    "resources": "Resources",
+    "testimonials": "Testimonials",
+    "contactUs": "Contact Us",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "tagline": "A Safe Space for Mental Wellness",
+    "title": "You Are Not Alone",
+    "titleHighlight": "Not Alone",
+    "subtitle": "Share your story anonymously. Connect with others who understand. Find professional support when you need it.",
+    "joinCommunity": "Join Our Community",
+    "exploreStories": "Explore Stories"
+  },
+  "features": {
+    "title": "Why Choose Addis Tesfa?",
+    "safeAnonymous": {
+      "title": "Safe & Anonymous",
+      "description": "Share your story without revealing your identity. Your privacy is our priority."
+    },
+    "professionalSupport": {
+      "title": "Professional Support",
+      "description": "Verified mental health professionals ready to provide guidance and support."
+    },
+    "communityDriven": {
+      "title": "Community Driven",
+      "description": "Connect with others who understand your journey. Real people, real stories."
+    },
+    "freeForever": {
+      "title": "Free Forever",
+      "description": "Mental health support should be accessible to everyone. No hidden costs."
+    }
+  },
+  "about": {
+    "title": "Empowering Mental Wellness Through Community",
+    "description": "Addis Tesfa (meaning \"New Hope\" in Amharic) was founded in 2024 with a simple mission: to create a safe, anonymous space where anyone can share their mental health journey without fear of judgment.",
+    "mission": "To make mental health support accessible, affordable, and stigma-free for everyone.",
+    "vision": "A world where no one faces mental health challenges alone, and support is always one click away.",
+    "values": "Compassion, privacy, inclusivity, and evidence-based support guide everything we do."
+  },
+  "community": {
+    "title": "Join Our Supportive Community",
+    "members": "10,000+ Members",
+    "conversations": "Daily Conversations",
+    "safe": "Safe & Moderated",
+    "joinButton": "Join the Community",
+    "visitButton": "Visit Community"
+  },
+  "blogs": {
+    "title": "Mental Health Resources",
+    "viewAll": "View All Resources"
+  },
+  "contact": {
+    "title": "We are Here to Help",
+    "subtitle": "Have questions or need support? Reach out to our team. We are committed to making your experience safe and supportive.",
+    "email": "Email Us",
+    "emailValue": "support@addistesfa.org",
+    "response": "We respond within 24 hours",
+    "crisis": "Crisis Support",
+    "crisisValue": "Available 24/7",
+    "professionals": "Professional Network",
+    "professionalsValue": "50+ Verified Professionals",
+    "formTitle": "Send us a Message",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@example.com",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "sendButton": "Send Message"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account to continue",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Join our community and start your journey",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Sign In",
+    "registerButton": "Create Account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "registerLink": "Get Started",
+    "loginLink": "Sign In",
+    "forgotPassword": "Forgot password?",
+    "stayAnonymous": "Stay Anonymous",
+    "anonymousDesc": "Your identity will be protected by default",
+    "backToHome": "Back to Home",
+    "passwordRequirements": {
+      "length": "At least 8 characters",
+      "special": "One special character",
+      "number": "One number",
+      "uppercase": "One uppercase letter"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "subtitle": "Here's what's happening in your community today.",
+    "totalPosts": "Total Posts",
+    "totalLikes": "Total Likes",
+    "comments": "Comments",
+    "savedPosts": "Saved Posts",
+    "quickActions": "Quick Actions",
+    "askQuestion": "Ask Question",
+    "askQuestionDesc": "Ask a question for community leaders to respond",
+    "shareStory": "Ask Question",
+    "shareStoryDesc": "Ask a question or share your thoughts",
+    "savedPostsDesc": "View your bookmarks",
+    "communityDesc": "Browse stories",
+    "resourcesDesc": "Mental health guides",
+    "recentPosts": "Recent Community Posts",
+    "viewAll": "View All",
+    "activity": "Your Activity",
+    "dailyTip": "Daily Tip",
+    "tipContent": "Remember to take breaks and practice self-care. Even 5 minutes of deep breathing can help reduce stress.",
+    "role": "Role",
+    "anonymousMode": "Anonymous Mode",
+    "publicProfile": "Public Profile",
+    "storiesViewed": "Stories viewed",
+    "postsLiked": "Posts liked",
+    "myPostsTitle": "Asked Questions & Drafts",
+    "myPostsDesc": "View your asked questions and draft responses"
+  },
+  "footer": {
+    "description": "A compassionate community for mental health support. Safe, anonymous, and professional.",
+    "platform": "Platform",
+    "account": "Account",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyright": "© 2024 Addis Tesfa. All rights reserved."
+  },
+  "language": {
+    "title": "Language",
+    "english": "English",
+    "amharic": "Amharic (አማርኛ)",
+    "oromiffa": "Oromiffa (Afaan Oromoo)"
+  },
+  "emailVerification": {
+    "title": "Verify Your Email",
+    "subtitle": "We've sent a verification link to your email",
+    "checkInbox": "Check your inbox",
+    "resendEmail": "Resend Email",
+    "verified": "Email Verified Successfully",
+    "verifyEmail": "Verify Email",
+    "emailSent": "Verification email sent to {email}"
+  },
+  "authExtended": {
+    "googleSignup": "Sign up with Google",
+    "phoneSignup": "Sign up with Phone",
+    "orContinueWith": "Or continue with"
+  },
+  "prayerTracker": {
+    "title": "Prayer Tracker",
+    "addPrayer": "Add Prayer",
+    "currentStreak": "Current Streak",
+    "days": "days",
+    "markComplete": "Mark as Complete",
+    "prayerName": "Prayer Name",
+    "selectReligion": "Select Religion"
+  },
+  "communityExtended": {
+    "askQuestion": "Ask Question",
+    "shareStory": "Share Story",
+    "leaderResponse": "Leader Response",
+    "verifiedLeader": "Verified Leader"
+  },
+  "donation": {
+    "title": "Donate",
+    "selectChurch": "Select Church/Mosque",
+    "bankAccount": "Bank Account",
+    "copyAccount": "Copy Account Number",
+    "accountCopied": "Account number copied!"
+  },
+  "dashboardNew": {
+    "religionContent": "Religion-Based Content",
+    "prayerWidget": "Prayer Tracker",
+    "askQuestions": "Asked Questions"
+  }
+}

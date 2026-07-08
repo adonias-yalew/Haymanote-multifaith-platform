@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "about": "Waa'ee Keenya",
+    "community": "Hawaasa",
+    "resources": "Qabeenyaa",
+    "testimonials": "Mirqaannoo",
+    "contactUs": "Nu Quunnamaa",
+    "signIn": "Seeni",
+    "getStarted": "Jalqabi",
+    "dashboard": "Daashboorii"
+  },
+  "hero": {
+    "tagline": "Bakka Nageenyaaf Fayyaa Mentalaa",
+    "title": "Deebi'uu Hin Dandeessitu",
+    "titleHighlight": "Hin Deebi'itu",
+    "subtitle": "Seenaa kee dhoksaatti qoodi. Namoota si huban waliin walitti dhufaadhu. Gargaarsa profesiyinaalii sana barbaadde yeroon argadhu.",
+    "joinCommunity": "Hawaasa Keenyaatti Makami",
+    "exploreStories": "Seenawwan Sakatta'i"
+  },
+  "features": {
+    "title": "Maaliif Addis Tesfa Filatta?",
+    "safeAnonymous": {
+      "title": "Nageenyaafi Dhoksaa",
+      "description": "Seenaa kee dhoksaatti qoodi. Dhuunfaa kee priyooritii keenyaadha."
+    },
+    "professionalSupport": {
+      "title": "Gargaarsa Profesiyinaalii",
+      "description": "Profesiyinaaloota fayyaa mentalaa mirkanaa'an qajeelchaafi gargaarsaaf qophii ta'an."
+    },
+    "communityDriven": {
+      "title": "Kan Hawaasa Tigguu",
+      "description": "Namoota deeggarsa kee huban waliin walitti dhufaadhu. Namoota dhugaa, seenawwan dhugaa."
+    },
+    "freeForever": {
+      "title": "Daa'imaa Bilisaa",
+      "description": "Gargaarsa fayyaa mentalaa namoota hundaaf ni danda'ama. Kaffalti dhokaa tokko hin jiru."
+    }
+  },
+  "about": {
+    "title": "Hawaasa Kaayyoo Fayyaa Mentalaa Tiksaa",
+    "description": "Addis Tesfa (Afaan Oromootiin 'Abjuu Haaraa' jechuudha) 2024 barnoota kaayyoo salphaa qabuun ijaarame: bakka nageenyaa fi dhokaa uumuun namni kamiyyuu seenaa fayyaa mentalaa isaaa jibbuu kan sodaachisuu dha malee hin sodaannee qooduu danda'u.",
+    "mission": "Gargaarsa fayyaa mentalaa namoota hundaaf ni danda'ama, kan itti milkaa'uu danda'u, fi kan stigma tokko hin qabne gochuu."
+    ,
+    "vision": "Addunyaa namni tokko fayyaa mentalaa kan ciminaa tokko malee hin dhiphunu, gargaarsaanis yeroo barbaadde cuquliiddarra jiru."
+    ,
+    "values": "Hawwii, dhuunfaa, walsimuu, fi gargaarsa ragaa irratti hundaa'e hundi waa'ee isaatiin nu gargaara."
+  },
+  "community": {
+    "title": "Hawaasa Keenya Gargaaraa Keenaatti Makami",
+    "members": "10,000+ Dhiiraa&",
+    "conversations": "Waliin Haasaawwan Guyyaa Guyyaa",
+    "safe": "Nageenyaafi Kan To'atame",
+    "joinButton": "Hawaasa Keenyaatti Makami",
+    "visitButton": "Hawaasa Daawwadhu"
+  },
+  "blogs": {
+    "title": "Qabeenya Fayyaa Mentalaa",
+    "viewAll": "Qabeenya Hunda Ilaali"
+  },
+  "contact": {
+    "title": "Gargaarsaaf As Jirra",
+    "subtitle": "Gaaffii qabdaa ykn gargaarsa barbaaddaa? Taphaa kee nageenyaafi gargaarsa ta'uu danda'u gochuuf qophii dha.",
+    "email": "Imeelii Nu Ergi",
+    "emailValue": "support@addistesfa.org",
+    "response": "Sa'aatii 24 keessaa deebis ni kennina",
+    "crisis": "Gargaarsa Jeequmsaa",
+    "crisisValue": "24/7 Ni Argama",
+    "professionals": "Tore Profesiyinaalaa",
+    "professionalsValue": "50+ Profesiyinaaloota Mirkanaa'an",
+    "formTitle": "Ergaa Nu Ergi",
+    "name": "Maqaa",
+    "namePlaceholder": "Maqaa kee",
+    "emailPlaceholder": "ataa@fakkeenya.com",
+    "message": "Ergaa",
+    "messagePlaceholder": "Akka si gargaarnu akkam nu barbaachisa?",
+    "sendButton": "Ergaa Ergi"
+  },
+  "auth": {
+    "loginTitle": "Baga Nagaan Dhuftan",
+    "loginSubtitle": "Itti fufuuf akkaawuntii kee seeni",
+    "registerTitle": "Akkaawuntii Uumi",
+    "registerSubtitle": "Hawaasa keenyaatti makamiifi daandii kee jalqabi",
+    "email": "Imeelii",
+    "password": "Jecha Darbii",
+    "confirmPassword": "Jecha Darbii Mirkaneessi",
+    "loginButton": "Seeni",
+    "registerButton": "Akkaawuntii Uumi",
+    "noAccount": "Akkaawuntii hin qabduu?",
+    "hasAccount": "Akkaawuntii qabduu?",
+    "registerLink": "Jalqabi",
+    "loginLink": "Seeni",
+    "forgotPassword": "Jecha darbii dagattee?",
+    "stayAnonymous": "Dhoksaan Turi",
+    "anonymousDesc": "Dhuunfaan kee hidhamaa jira",
+    "backToHome": "Gara Manaa Debi'i",
+    "passwordRequirements": {
+      "length": "Arfii 8 ol ta'u qaba",
+      "special": "Arfii addaa tokko",
+      "number": "Lakkoofsa tokko",
+      "uppercase": "Qubee guddaa tokko"
+    }
+  },
+  "dashboard": {
+    "welcome": "Baga nagaan dhufte",
+    "subtitle": "Har'a hawaasa keessatti kan godhamaa jiru asiidha.",
+    "totalPosts": "Waliigala Barruulee",
+    "totalLikes": "Waliigala Jallatamuu",
+    "comments": "Yaada",
+    "savedPosts": "Barruulee Qusataman",
+    "quickActions": "Tajajila Sadii",
+    "shareStory": "Seenaa Qoodi",
+    "shareStoryDesc": "Dhoksaan maxxansi",
+    "savedPostsDesc": "Qusatamoota kee ilaali",
+    "communityDesc": "Seenawwan sakatta'i",
+    "resourcesDesc": "Qajeelfama fayyaa mentalaa",
+    "recentPosts": "Barruulee Hawaasaa Dhiyoo",
+    "viewAll": "Hunda Ilaali",
+    "activity": "Sochii Kee",
+    "dailyTip": "Gorsa Guyyaa",
+    "tipContent": "Hordoffii fudhachuu fi of eeggannoo gochuu yaadadhu. Eve satanii 5 daqiiqaa fokkoo shaakaluu dhiphinaa hir'isuu danda'a.",
+    "role": "Gahee",
+    "anonymousMode": "Haala Dhoksaa",
+    "publicProfile": "Profaayilii Hawaasaa",
+    "storiesViewed": "Seenawwan ilaalaman",
+    "postsLiked": "Barruulee jallataman"
+  },
+  "footer": {
+    "description": "Hawaasa gargaarsa fayyaa mentalaa kan aangoo qabu. Nageenya, dhokaa, fi profesiyinaala.",
+    "platform": "Daandii",
+    "account": "Akkaawuntii",
+    "privacy": "Dhuunfaa",
+    "terms": "Adeemsa",
+    "copyright": "© 2024 Addis Tesfa. Mirgi hundi kan eegame."
+  },
+  "language": {
+    "title": "Afaan",
+    "english": "Ingliffa (English)",
+    "amharic": "Amhariffa (Amharic)",
+    "oromiffa": "Oromiffa (Oromiffa)"
+  }
+}
